@@ -1,1 +1,14 @@
+# You must download a few libraries and make a few changes in order to run the tkinter application below.
 
+## Libraries
+pip install tkinter
+pip install pillow
+pip install openpyxl
+pip install xlsxwriter
+pip install pandas
+pip install fpdf
+
+datetime and random are inbuilt libraries
+
+## changes
+You must adjust the path of the data we use and save to fit your particular system.
